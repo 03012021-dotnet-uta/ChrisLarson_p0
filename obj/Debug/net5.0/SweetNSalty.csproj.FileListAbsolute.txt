@@ -1,0 +1,16 @@
+C:\Users\clars\Revature\week2\SweetNSalty\SweetNSalty\obj\Debug\net5.0\SweetNSalty.csprojAssemblyReference.cache
+C:\Users\clars\Revature\week2\SweetNSalty\SweetNSalty\obj\Debug\net5.0\SweetNSalty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clars\Revature\week2\SweetNSalty\SweetNSalty\obj\Debug\net5.0\SweetNSalty.AssemblyInfoInputs.cache
+C:\Users\clars\Revature\week2\SweetNSalty\SweetNSalty\obj\Debug\net5.0\SweetNSalty.AssemblyInfo.cs
+C:\Users\clars\Revature\week2\SweetNSalty\SweetNSalty\obj\Debug\net5.0\SweetNSalty.csproj.CoreCompileInputs.cache
+C:\Users\clars\Revature\week2\SweetNSalty\SweetNSalty\bin\Debug\net5.0\SweetNSalty.exe
+C:\Users\clars\Revature\week2\SweetNSalty\SweetNSalty\bin\Debug\net5.0\SweetNSalty.deps.json
+C:\Users\clars\Revature\week2\SweetNSalty\SweetNSalty\bin\Debug\net5.0\SweetNSalty.runtimeconfig.json
+C:\Users\clars\Revature\week2\SweetNSalty\SweetNSalty\bin\Debug\net5.0\SweetNSalty.runtimeconfig.dev.json
+C:\Users\clars\Revature\week2\SweetNSalty\SweetNSalty\bin\Debug\net5.0\SweetNSalty.dll
+C:\Users\clars\Revature\week2\SweetNSalty\SweetNSalty\bin\Debug\net5.0\ref\SweetNSalty.dll
+C:\Users\clars\Revature\week2\SweetNSalty\SweetNSalty\bin\Debug\net5.0\SweetNSalty.pdb
+C:\Users\clars\Revature\week2\SweetNSalty\SweetNSalty\obj\Debug\net5.0\SweetNSalty.dll
+C:\Users\clars\Revature\week2\SweetNSalty\SweetNSalty\obj\Debug\net5.0\ref\SweetNSalty.dll
+C:\Users\clars\Revature\week2\SweetNSalty\SweetNSalty\obj\Debug\net5.0\SweetNSalty.pdb
+C:\Users\clars\Revature\week2\SweetNSalty\SweetNSalty\obj\Debug\net5.0\SweetNSalty.genruntimeconfig.cache
