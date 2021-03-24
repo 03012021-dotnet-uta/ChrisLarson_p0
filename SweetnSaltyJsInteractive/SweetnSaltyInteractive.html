@@ -98,7 +98,12 @@
                 result.innerHTML = 'END VALUE AND START VALUE ARE NOT AT LEAST 200 APART!';
             }else if((end-start) > 10000){
                 result.innerHTML = 'END VALUE AND START VALUE ARE MORE THAN 10000 APART!';
-            }else{
+            }else if(start < 1){
+                result.innerHTML = 'START VALUE IS LESS THAN 1!';
+            }else if(end < 201){
+                result.innerHTML = 'END VALUE IS TOO SMALL!';
+            }
+            else{
                 SweetOrSalty();
             }
         }
